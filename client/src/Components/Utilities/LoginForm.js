@@ -38,7 +38,7 @@ const LoginForm = (props)=>{
             }}>Submit</Button>
           </p>
           </form>
-          <Link to="/register" className="a">Dont Have an Account ?</Link>
+          <Link to="/register" className="a">Don't Have an Account ?</Link>
           <Link style={{display:"block"}} to="/forgetpassword" className="a">Forget Password ?</Link>
       </div>
     )

@@ -24,7 +24,7 @@ const About = ()=>{
         <div className="company-info">
           <h3>About</h3>
           <ul>
-            <li><i className="fa fa-road"></i> 44 Something st</li>
+            <li><i className="fa fa-road"></i> 44 Main street, Lahore</li>
             <li><i className="fa fa-phone"></i> (92) 4225-391484</li>
             <li><i className="fa fa-envelope"></i> test@acme.test</li>
           </ul>

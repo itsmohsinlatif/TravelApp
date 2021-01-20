@@ -32,7 +32,7 @@ const GetUsers = (props) =>{
 
 return(
     <div>
-        {details.length === 0 ? <h2>There are no Users</h2> :<div>
+        {details.length === 0 ? <h2>There are No Users!</h2> :<div>
             { details.map((user,index) => <Table key={index} user={user} />)}
         </div>}
 

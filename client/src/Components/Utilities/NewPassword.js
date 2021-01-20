@@ -10,7 +10,7 @@ const NewPassword = (props)=>{
           <div className="company-info">
             <h3>Travel Pakistan</h3>
             <ul>
-              <li><i className="fa fa-road"></i> 44 Something st</li>
+              <li><i className="fa fa-road"></i> 44 Main Street, Lahore</li>
               <li><i className="fa fa-phone"></i> (92) 4235-3914</li>
               <li><i className="fa fa-envelope"></i> test@acme.test</li>
             </ul>

@@ -56,7 +56,7 @@ const getPost = () => {
 
        
       
-        {posts.length === 0 ? <h2>There are no Posts</h2> :<Grid container spacing={3}>
+        {posts.length === 0 ? <h2>There are No Posts!</h2> :<Grid container spacing={3}>
             { posts.map((post,index) => <Card key={index} post={post} onDelete={getPost} 
              />) }
             {/* { users.map((user,index2)=><Card key={index2} user={user} /> )} */}
